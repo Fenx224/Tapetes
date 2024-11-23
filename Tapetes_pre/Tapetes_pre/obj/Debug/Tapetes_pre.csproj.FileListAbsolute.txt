@@ -1,0 +1,8 @@
+C:\Users\fenx2\OneDrive\Documentos\SharpDevelop Projects\Tapetes_pre\Tapetes_pre\obj\Debug\Tapetes_pre.csprojResolveAssemblyReference.cache
+C:\Users\fenx2\OneDrive\Documentos\SharpDevelop Projects\Tapetes_pre\Tapetes_pre\obj\Debug\Tapetes_pre.MainForm.resources
+C:\Users\fenx2\OneDrive\Documentos\SharpDevelop Projects\Tapetes_pre\Tapetes_pre\obj\Debug\Tapetes_pre.csproj.GenerateResource.Cache
+C:\Users\fenx2\OneDrive\Documentos\SharpDevelop Projects\Tapetes_pre\Tapetes_pre\bin\Debug\Tapetes_pre.exe
+C:\Users\fenx2\OneDrive\Documentos\SharpDevelop Projects\Tapetes_pre\Tapetes_pre\bin\Debug\Tapetes_pre.pdb
+C:\Users\fenx2\OneDrive\Documentos\SharpDevelop Projects\Tapetes_pre\Tapetes_pre\obj\Debug\Tapetes_pre.exe
+C:\Users\fenx2\OneDrive\Documentos\SharpDevelop Projects\Tapetes_pre\Tapetes_pre\obj\Debug\Tapetes_pre.pdb
+C:\Users\fenx2\OneDrive\Documentos\SharpDevelop Projects\Tapetes_pre\Tapetes_pre\obj\Debug\Tapetes_pre.Precios.resources
